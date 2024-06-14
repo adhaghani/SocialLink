@@ -83,6 +83,7 @@ body .Container .link li a:hover {
   color: #141414;
 }
 body .attribution {
+  text-align: center;
   margin-top: 30px;
   color: #fff;
 }
